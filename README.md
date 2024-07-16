@@ -1,9 +1,7 @@
 ## Hi, I'm Jader Jr. Welcome to my github!
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=jr-jader&include_all_commits=false&show_icons=true&theme=onedark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jr-jader&layout=compact&langs_count=12&card_width=320&theme=onedark" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&username=marcotuiio" height="200" width="500" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=midnight-purple&hide_border=true&username=marcotuiio" height="200" alt="languages graph"  />
+</div>
 
