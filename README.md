@@ -2,7 +2,7 @@
 
 <div>
   <a href="https://github.com/laistie">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jr-jader&show_icons=true&include_all_commits=true&count_private=false&theme=midnight-purple"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jr-jader&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jr-jader&layout=compact&langs_count=8&theme=midnight-purple"/>
 </div>
     
