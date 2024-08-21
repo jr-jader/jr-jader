@@ -4,7 +4,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=jr-jader&include_all_commits=true&show_icons=true&theme=midnight-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jr-jader&layout=compact&langs_count=8&count_private=true&card_width=320&theme=midnight-purple" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jr-jader&layout=compact&langs_count=8&count_private=false&card_width=320&theme=midnight-purple" />
 </a>
 
 ####  Contact me
