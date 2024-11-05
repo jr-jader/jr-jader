@@ -7,6 +7,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=great-gatsby&hide_border=true&username=jr-jader" height="200" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=jr-jader&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
 ###
 
 <h3 align="left">🛠 Languages and tools</h3>
@@ -49,3 +53,6 @@
     
   ![snake gif](https://github.com/jr-jader/jr-jader/blob/output/github-snake-dark.svg)
 </div>
+
+###
+
