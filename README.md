@@ -44,3 +44,8 @@
 </div>
 
 ###
+
+<div align="center">
+    
+  ![snake gif](https://github.com/jr-jader/jr-jader/blob/output/github-snake-dark.svg)
+</div>
