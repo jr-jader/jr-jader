@@ -1,14 +1,18 @@
-<h1 align="left">Hi, I'm Jader Jr. Welcome to my github! 👋</h1>
 
-###
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=1500&pause=1000&color=F79F31&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Jader+Jr.;+Welcome+to+my+GitHub!+&center=true&size=30">
+  </a>
+</h1>
+
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&username=jr-jader" height="200" width="500" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=great-gatsby&hide_border=true&username=jr-jader" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&username=jr-jader" height="180"  alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=jr-jader&locale=en&mode=weekly&theme=great-gatsby&hide_border=true&border_radius=9&order=3" height="180"  alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=great-gatsby&hide_border=true&username=jr-jader" height="300" alt="languages graph"  />
 </div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jr-jader&locale=en&mode=weekly&theme=great-gatsby&hide_border=true&border_radius=9&order=3" height="180" alt="streak graph"  />
-</div>
+
+
 
 ###
 
