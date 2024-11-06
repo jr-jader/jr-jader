@@ -12,8 +12,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=great-gatsby&locale=en&hide_border=true&username=jr-jader" height="180"  alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=great-gatsby&hide_border=true&username=jr-jader" height="180" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=jr-jader&locale=en&mode=weekly&theme=great-gatsby&hide_border=true&border_radius=9&order=3" height="180"  alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=12&theme=great-gatsby&hide_border=true&username=jr-jader" height="250" alt="languages graph"  />
+  
 </div>
 
 
