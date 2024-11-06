@@ -23,7 +23,11 @@
 
 ###
 
-<h3 align="left">🛠 Languages and tools</h3>
+<h3 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=F7F7F7&vCenter=true&repeat=false&width=435&lines=%F0%9F%9B%A0+Languages+and+tools&center=true&size=20">
+  </a>
+</h3>
 
 ###
 
