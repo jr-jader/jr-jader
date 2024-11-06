@@ -1,3 +1,7 @@
+<div align="center">
+  <img align="center" src="https://github.com/jr-jader/jr-jader/blob/main/.github/octocat-1730850962358.png" width="200px"/>
+</div>
+
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
